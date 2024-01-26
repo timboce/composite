@@ -51,7 +51,3 @@ export default {
     }
 }
 </script>
-
-<style>
-/* Any global styling for the app can be added here */
-</style>
